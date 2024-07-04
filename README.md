@@ -1,0 +1,2 @@
+# machad-o
+inteligência artificial
